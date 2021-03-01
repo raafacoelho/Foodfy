@@ -19,7 +19,7 @@
 
 [Sobre o Foodfy](#sobre-o-foodfy)
 
-[Funcionalidades](#funcionalidades)
+[Tecnologias e Ferramentas](#funcionalidades)
 
 [Licença](#licença)
 
